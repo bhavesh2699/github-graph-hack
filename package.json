@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/bhavesh2699/github-graph-hack/issues"
   },
-  "homepage": "https://github.com/bhavesh2699/github-graph-hack#readme"
+  "homepage": "https://github.com/bhavesh2699/github-graph-hack#readme",
+  "dependencies": {
+    "jsonfile": "^5.0.0"
+  }
 }
