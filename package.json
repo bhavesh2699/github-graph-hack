@@ -1,0 +1,19 @@
+{
+  "name": "github-graph-hack",
+  "version": "1.0.0",
+  "description": "hack github",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhavesh2699/github-graph-hack.git"
+  },
+  "author": "Bhavesh Solanki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bhavesh2699/github-graph-hack/issues"
+  },
+  "homepage": "https://github.com/bhavesh2699/github-graph-hack#readme"
+}
